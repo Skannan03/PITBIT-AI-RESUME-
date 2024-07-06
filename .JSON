@@ -1,0 +1,97 @@
+{
+  "Personal Information": {
+    "Name": "Senthamarai Kannan S",
+    "Phone": "+91 9444067867",
+    "Email": "sendhasure@gmail.com",
+    "LinkedIn": "senthamarai-kannan",
+    "GitHub": "Skannan03",
+    "Date of Birth": "01/01/2003",
+    "Languages Known": ["English (R/W/S)", "Tamil (R/W/S)", "Hindi (R/W/S)"],
+    "Hobbies": ["Technical Content Writing"]
+  },
+  "Career Objective": [
+    "An aspiring Data Scientist with high motive and passion to work with data. Eager to contribute my skills and enthusiasm for data-driven problem solving to contribute to innovative projects at a forward-thinking organization.",
+    "Well-versed in statistical analysis, machine learning, and data visualization, gained through academic projects and internships. Proficient in Python and SQL, with hands-on experience in data cleaning, exploratory data analysis, building predictive models, and Gen AI tech.",
+    "Additionally, skilled in leadership, public speaking, problem-solving, and decision making."
+  ],
+  "Academic Profile": {
+    "BE": {
+      "Degree": "Computer Science Engineering",
+      "Institution": "Jeppiaar Engineering College, Chennai",
+      "Year": 2024,
+      "CGPA": 8.6
+    },
+    "XII": {
+      "Institution": "Terapanth Jain Vidyalaya Matriculation Higher Secondary School, Chennai",
+      "Year": 2020,
+      "Percentage": 83
+    },
+    "X": {
+      "Institution": "Terapanth Jain Vidyalaya Matriculation Higher Secondary School, Chennai",
+      "Year": 2018,
+      "Percentage": 86
+    }
+  },
+  "Profile Summary or Area of Expertise": [
+    "Build predictive models and machine-learning algorithms including Supervised learning, Unsupervised learning, and Gen AI technologies.",
+    "Skilled in Natural Language Processing (NLP), Text mining, word extraction, Tokenization, Lemmatization, and Vectorization.",
+    "Good knowledge of deep learning Artificial Neural Networks (ANN), Convolutional Neural Networks (CNN), and Recurrent Neural Networks (RNN).",
+    "Applied appropriate machine learning and Statistical models like Logistic regression, Bayesian model, Naive Bayes, SVM, and various Ensemble models like Random Forest, Decision Tree, Bagging, and Boosting algorithms.",
+    "Experience in Statistics and Probability including Normal Distribution, Hypothesis Testing.",
+    "Efficient in pre-processing data including Data cleaning, Correlation analysis, Imputation, Visualization, Feature Scaling, and Dimensionality Reduction techniques using Machine learning platforms like Python Data Science Packages (Scikit-Learn, Pandas, NumPy).",
+    "Experience in query languages such as SQL and MySQL for Database.",
+    "Experienced in data visualization techniques in Power BI, Tableau, IBM Cognos Analytics.",
+    "Experienced in tuning models using Grid Search, Randomized Grid Search."
+  ],
+  "Projects": [
+    {
+      "Name": "AI Voice Assistant Chatbot using multimodal Llava and Whisper (Gen AI)",
+      "Objective": "The main objective of the project is to analyze the image and the voice and give speech as output",
+      "Description": [
+        "This project solves the issues of language barriers and assists people with visual disabilities by taking low-quality images and audio as input, and providing high-quality audio content in return.",
+        "Developed with Microsoft’s multimodal Llava 1.5 7B for image and audio analysis and OpenAI Whisper model for speech to text translation.",
+        "Added with GTTS library (google text to speech translation) to convert the text into audio output.",
+        "Fine-tuned the LLM and implemented the project in Gradio framework."
+      ],
+      "Link": "Click here"
+    },
+    {
+      "Name": "Employee Mental Health Prediction (KPMG- Skillenza Hackathon)",
+      "Objective": "The project aims to analyze the mental health of the employee whether they need medical attention or not based on the given data.",
+      "Description": [
+        "Developed a comprehensive mental health assessment system for employees in the tech industry. Data source provided by KPMG.",
+        "Performed in-depth EDA, feature engineering, missing value treatment, outlier detection, scaling, etc.",
+        "Performed various machine learning techniques with fine-tuning the parameters to accurately predict whether the employee needs treatment and analyzing business loss and profits."
+      ]
+    },
+    {
+      "Name": "Resume Screening With NLP",
+      "Objective": "The project aims to analyze the Resume of the students and classify them based on the job role and added ATS score to their resume.",
+      "Description": [
+        "Developed an automated system that can effectively filter resume PDF applications based on their resemblance to a given job description.",
+        "Preprocessed the data, Tokenization, stopwords, stemming, vectorization, implemented machine learning models and BERT classifier.",
+        "Deployed the model using Gradio."
+      ],
+      "Link": "Click Here"
+    }
+  ],
+  "Certifications & Academic Endeavours": [
+    "Imarticus Learning – PG Data science and Data analytics",
+    "Jobaaj – Power BI",
+    "HackerRank Gold Batch for SQL, Python",
+    "NPTEL Machine learning in IITKGP",
+    "GDSC – Technical Content Writer Lead"
+  ],
+  "Awards & Accolades": [
+    "Awarded 3rd Prize in data science hackathon conducted by Skillenza in collaboration with KPMG.",
+    "Participated in Paper Presentation on “Machine Learning” at St Joseph Institute of Technology.",
+    "Published a paper titled \"AI Voice Assistant Chatbot With Multimodal Llava and Whisper\" in ICCET'24 Journal.",
+    "Conducted workshop on “how to be a content writer” in Jeppiaar Engineering College."
+  ],
+  "Personal Skills": [
+    "Skilled in delivering clear, impactful presentations and data visualizations to effectively communicate complex analytical insights to diverse audiences.",
+    "Strong communication skills – Develops and maintains two-way communication.",
+    "Collaborative – Able to work well with a range of people both within and outside of the organization.",
+    "Exhibited strong work ethic, organization, and time management skills by successfully managing co-curricular leadership positions in School and College levels."
+  ]
+}
